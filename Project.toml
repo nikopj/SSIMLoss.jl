@@ -1,0 +1,13 @@
+name = "SSIMLoss"
+uuid = "4d144c37-fac8-4848-9cd1-d34bc60114c1"
+authors = ["nikola@nyu.edu"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

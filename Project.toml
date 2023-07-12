@@ -1,0 +1,7 @@
+name = "SSIMLoss"
+uuid = "99b39245-a385-407d-aa12-a4fa87bc9157"
+authors = ["Nikola Janjusevic <nikola@nyu.edu>"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.9"

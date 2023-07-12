@@ -17,4 +17,7 @@ cuDNN = "02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd"
 SSIMLossCUDAExt = ["CUDA", "cuDNN"]
 
 [compat]
+ChainRulesCore = "1"
 julia = "1.9"
+MLUtils = "0.4"
+NNlib = "0.9"
